@@ -1,0 +1,62 @@
+D:\Silvia Ranti\PBD\Toko Buku\bin\Debug\Toko Buku.exe.config
+D:\Silvia Ranti\PBD\Toko Buku\bin\Debug\Toko Buku.exe
+D:\Silvia Ranti\PBD\Toko Buku\bin\Debug\Toko Buku.pdb
+D:\Silvia Ranti\PBD\Toko Buku\obj\Debug\Toko Buku.csproj.AssemblyReference.cache
+D:\Silvia Ranti\PBD\Toko Buku\obj\Debug\Toko_Buku.Form1.resources
+D:\Silvia Ranti\PBD\Toko Buku\obj\Debug\Toko_Buku.Properties.Resources.resources
+D:\Silvia Ranti\PBD\Toko Buku\obj\Debug\Toko Buku.csproj.GenerateResource.cache
+D:\Silvia Ranti\PBD\Toko Buku\obj\Debug\Toko Buku.csproj.CoreCompileInputs.cache
+D:\Silvia Ranti\PBD\Toko Buku\obj\Debug\Toko Buku.exe
+D:\Silvia Ranti\PBD\Toko Buku\obj\Debug\Toko Buku.pdb
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\Toko Buku.exe.config
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko Buku.exe
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko Buku.pdb
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko Buku.csprojResolveAssemblyReference.cache
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko_Buku.Form1.resources
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko_Buku.GUI.Beli.resources
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko_Buku.GUI.DetailTransaksi.resources
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko Buku.csproj.GenerateResource.Cache
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko_Buku.GUI.MenuUtama.resources
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko_Buku.Properties.Resources.resources
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\Toko Buku.exe
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\Toko Buku.pdb
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\mscorlib.dll
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\MySql.Data.dll
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\System.Net.Http.dll
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\System.Net.Http.xml
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\normidna.nlp
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\normnfc.nlp
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\normnfd.nlp
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\normnfkc.nlp
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\bin\Debug\normnfkd.nlp
+D:\KULIAH\SEMESTER 3\PBD\Toko Buku\obj\Debug\Toko_Buku.GUI.TambahBuku.resources
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\bin\Debug\Toko Buku.exe.config
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\bin\Debug\Toko Buku.exe
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\bin\Debug\Toko Buku.pdb
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko Buku.csproj.AssemblyReference.cache
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.Beli.resources
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.DetailTransaksi.resources
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.TambahBuku.resources
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.Properties.Resources.resources
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko Buku.csproj.GenerateResource.cache
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko Buku.csproj.CoreCompileInputs.cache
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko Buku.exe
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko Buku.pdb
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.EditBuku.resources
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.MenuBeli.resources
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.MenuUtama.resources
+C:\Users\tamva\Downloads\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.MenuTransaksi.resources
+D:\Toko Buku\Toko Buku\bin\Debug\Toko Buku.exe.config
+D:\Toko Buku\Toko Buku\bin\Debug\Toko Buku.exe
+D:\Toko Buku\Toko Buku\bin\Debug\Toko Buku.pdb
+D:\Toko Buku\Toko Buku\obj\Debug\Toko Buku.csproj.AssemblyReference.cache
+D:\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.MenuBeli.resources
+D:\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.MenuTransaksi.resources
+D:\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.MenuUtama.resources
+D:\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.EditBuku.resources
+D:\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.GUI.TambahBuku.resources
+D:\Toko Buku\Toko Buku\obj\Debug\Toko_Buku.Properties.Resources.resources
+D:\Toko Buku\Toko Buku\obj\Debug\Toko Buku.csproj.GenerateResource.cache
+D:\Toko Buku\Toko Buku\obj\Debug\Toko Buku.csproj.CoreCompileInputs.cache
+D:\Toko Buku\Toko Buku\obj\Debug\Toko Buku.exe
+D:\Toko Buku\Toko Buku\obj\Debug\Toko Buku.pdb
